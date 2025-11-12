@@ -1,7 +1,5 @@
 # tasky-redux
 
-https://tasky-redux.netlify.app
-
 # Task list made with React and Redux Toolkit.
 
 An application at this level of complexity does not require the use of Redux, but the use of Redux was for the purposes of learning about the technology.
